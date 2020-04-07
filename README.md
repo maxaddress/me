@@ -1,2 +1,2 @@
 # me
-personal/professional information 
+personal site
